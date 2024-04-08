@@ -47,6 +47,7 @@ export default function Body({spotify}){
           });
         });
     };
+    console.log('hello')
   
     return (
       <div className="body">
